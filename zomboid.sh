@@ -1,6 +1,8 @@
 #!/bin/sh
 # PROJECT ZOMBOID SCRIPT - by Hiob BJÖRN https://hiob.fr/zomboid
+## Github: https://github.com/Hiobi/Zomboid-script
 ## Let's start, stop, check status, save, update and reset your Project Zomboid server !
+## This script is licenced under GNU GPLv3 https://www.gnu.org/licenses/quick-guide-gplv3.html
 ## Thanks to Pymous <3 for his help !
 
 
