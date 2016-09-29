@@ -14,8 +14,8 @@ Download`zomboid.sh` and put it near your Zomboid server, `/home/steam/` for exa
 |**STEAM**|Define the absolute path where installed steamcmd|`/home/steam/steamcmd`|
 |**INSTALL**|Define the installation directory of Zomboid, by default it's in your STEAMCMD folder|`/home/steam/steamcmd/zomboid`|
 |**DATA**|Define the absolute path of the directory (Zomboid) containing backups of the players, the map, the database and configuration|`/home/steam/Zomboid`|
-|**IP**|Define listening IP|`0.0.0.0`|
-|**ADMINPASSWORD**|Set admin password to access in game to admin console|`myawesomepassword`|
+|**IP**|Define listening IP, default to all interface|`0.0.0.0`|
+|**ADMINPASSWORD**|Set the admin password to access the in game admin console|`myawesomepassword`|
 
 ```shell
 # Set variables
