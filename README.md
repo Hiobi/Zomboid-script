@@ -4,7 +4,6 @@ Manage your Project Zomboid server, start, stop, restart, save, update, status a
 ## Required
 * A steam account and steamcmd install
 * A copy of Project Zomboid
-* A Project Zomboid server
 
 ## Install
 Download`zomboid.sh` and put it near your Zomboid server, `/home/steam/` for example.
@@ -13,7 +12,7 @@ Download`zomboid.sh` and put it near your Zomboid server, `/home/steam/` for exa
 |parameter|description|default|
 |--- |--- |--- |
 |**STEAM**|Define the absolute path where installed steamcmd|`/home/steam/steamcmd`|
-|**INSTALL**|Define the installation directory of Zomboid, by default it is in that of steamcmd|`/home/steam/steamcmd/zomboid`|
+|**INSTALL**|Define the installation directory of Zomboid, by default it's in your STEAMCMD folder|`/home/steam/steamcmd/zomboid`|
 |**DATA**|Define the absolute path of the directory (Zomboid) containing backups of the players, the map, the database and configuration|`/home/steam/Zomboid`|
 |**IP**|Define listening IP|`0.0.0.0`|
 |**ADMINPASSWORD**|Set admin password to access in game to admin console|`myawesomepassword`|
